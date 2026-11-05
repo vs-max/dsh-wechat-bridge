@@ -1,6 +1,6 @@
 {
   "name": "dsh-wechat-bridge",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "通到微信：DSH 里的 AI 伙伴和微信双向互通。读微信本地库收消息、UI 自动化发消息。外人只能聊天（工具被硬拦，不能执行命令、不能读写文件）；可配入站白名单限制谁能发消息进来。",
   "license": "MIT",
   "type": "module",
